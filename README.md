@@ -14,3 +14,6 @@ acrescentados na etiqueta de preço conforme
 exemplo (próxima página). Para produtos
 importados, a taxa e alfândega deve ser
 acrescentada ao preço final do produto.
+
+## Intuito
+Exercicio proposto para praticar **Herança** e **Polimorfismo**
