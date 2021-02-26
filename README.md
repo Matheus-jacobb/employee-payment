@@ -1,4 +1,4 @@
-# Exercicio realizado durante curso de java udemy #
+# Exercicio pagamento de funcionarios #
 
 Fazer um programa para ler os dados de N
 produtos (N fornecido pelo usuário). Ao final,
@@ -14,4 +14,3 @@ acrescentados na etiqueta de preço conforme
 exemplo (próxima página). Para produtos
 importados, a taxa e alfândega deve ser
 acrescentada ao preço final do produto.
-
